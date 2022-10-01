@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **React and Python.**
 
-- 📫 How to reach me **jordanboardman15@gmail.com**
+- 📫 How to reach me: **jordanboardman15@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jordanboardman/](https://www.linkedin.com/in/jordanboardman/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/jordanboardman/](https://www.linkedin.com/in/jordanboardman/)
 
-- ⚡ Fun fact **I am also a professional musician. (Drummer/Percussionist)**
+- ⚡ Fun fact: **I am also a professional musician. (Drummer/Percussionist)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
