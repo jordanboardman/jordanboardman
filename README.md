@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jordan Boardman</h1>
 <h3 align="center">Lover of learning, developing cool ideas, and a focus on balance.</h3>
 
-- 🔭 I’m currently working on **the DigitalCrafts curriculum.**
+- 🔭 I’m currently working on **work as a Develop Carolina Apprentice and Junior Developer at Booz Allen Hamilton.**
 
-- 🌱 I’m currently learning **Python, HTML, CSS, JavaScript, React, PostgresSQL, Express, Node.**
+- 🌱 I’m currently learning **Angular and Java**
 
 - 👯 I’m looking to collaborate on **projects made with passion and innovation.**
 
-- 🤝 I’m looking for help with **landing that first job.**
+- 🤝 I’m looking for help with **work/life balance.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jordanboardman](https://github.com/jordanboardman)
 
-- 💬 Ask me about **React and Python.**
+- 💬 Ask me about **React and Python. My favs!**
 
 - 📫 How to reach me: **jordanboardman15@gmail.com**
 
